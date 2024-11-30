@@ -2655,7 +2655,7 @@ li.list-none-first {
   text-align: center;
 }
 .price-box .price-header button {
-  background: #7CEB99;
+  background: #A3D9A5;
   font-size: 20.37px;
   font-weight: 700;
   line-height: 24.44px;
@@ -2754,7 +2754,7 @@ li.list-none-first {
   display: inline-block;
   width: 100%;
   text-align: center;
-  background: #7CEB99;
+  background: #A3D9A5;
   color: var(--black-color);
   border-radius: 8px;
   padding: 13px 45px;
@@ -2771,7 +2771,7 @@ li.list-none-first {
   color: #EB950A;
 }
 .price-box.ibox02 .price-header button {
-  background: #FFD700;
+  background: #BDC3C7;
 }
 .price-box.ibox02 ul li span {
   background: #EB950A;
@@ -2780,7 +2780,7 @@ li.list-none-first {
   background: #FFFBE7;
 }
 .price-box.ibox02 .price-footer .price-btn {
-  background: #FFD700;
+  background: #BDC3C7;
 }
 .price-box.ibox02 .price-footer .price-btn:hover {
   background: var(--black-color);
@@ -2790,7 +2790,7 @@ li.list-none-first {
   background: #E7F3F7;
 }
 .price-box.ibox03 .price-header button {
-  background: #01AEEF;
+  background: #A3D9A5;
   color: var(--white-color);
 }
 .price-box.ibox03 ul li span {
@@ -2800,7 +2800,7 @@ li.list-none-first {
   background: #E7F3F7;
 }
 .price-box.ibox03 .price-footer .price-btn {
-  background: #01AEEF;
+  background: #A3D9A5;
   color: var(--white-color);
 }
 .price-box.ibox03 .price-footer .price-btn:hover {
